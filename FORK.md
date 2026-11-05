@@ -1,9 +1,17 @@
-# Dynamo Primer · Personal fork
+# Dynamo Primer · Reference workspace
 
-This repository is a personal fork of [DynamoDS/DynamoPrimerNew](https://github.com/DynamoDS/DynamoPrimerNew).
+This is a personal fork of [DynamoDS/DynamoPrimerNew](https://github.com/DynamoDS/DynamoPrimerNew). Original authorship, credits and license notices remain with the upstream project.
 
-The original documentation, authorship, attribution and license remain with the upstream project. This fork is kept as a learning and reference workspace; its presence on this account does not imply authorship of the upstream work.
+## What is useful here
 
-- [Read the original project](https://github.com/DynamoDS/DynamoPrimerNew)
-- [Browse this fork](https://github.com/moderntanri/DynamoPrimerNew)
-- [Return to the profile](https://github.com/moderntanri)
+A structured guide to visual programming in Dynamo. The Primer covers geometry, data, design workflows and practical examples; its own navigation is the best starting point.
+
+## Reading route
+
+- [Browse the upstream project](https://github.com/DynamoDS/DynamoPrimerNew) for current development and contribution guidance.
+- [Read this fork's front page](README.md) for the preserved documentation.
+- [Review the license and attribution](README.md#license) before reuse.
+
+This fork is a learning/reference space. Its presence on this account does not imply authorship of the upstream work or a separately maintained release.
+
+[Erencan Ekici · Profile](https://github.com/moderntanri)
